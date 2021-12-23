@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
 title: Python For Historians
 description: Bookmark this to keep an eye on my project updates!
-image: https://www.ghil.ac.uk/typo3conf/ext/wacon_ghil/Resources/Public/Images/institute_icon_small.png
+image: imgs/institute_icon_small.png
+logo: imgs/institute_icon_small.png
