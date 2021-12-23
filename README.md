@@ -1,6 +1,8 @@
 # Text Mining for Historians with Python
 By Kaspar Beelen and Luke Blaxill
 
+![GHIlogo](https://www.ghil.ac.uk/typo3conf/ext/wacon_ghil/Resources/Public/Images/institute_icon_small.png)
+
 ## Lecture 5: Python, the Basics
 
 ### Notebook 1: Introducing the coures
