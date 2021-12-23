@@ -1,6 +1,9 @@
 # Text Mining for Historians with Python
 By Kaspar Beelen and Luke Blaxill
 
+Run all on Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/HEAD)
+
 ## Lecture 5: Python, the Basics
 
 ### Notebook 1: Introducing the coures
