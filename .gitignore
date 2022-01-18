@@ -129,3 +129,6 @@ dmypy.json
 .pyre/
 
 working_data/*
+data/*
+example_data/*
+
