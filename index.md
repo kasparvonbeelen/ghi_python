@@ -44,7 +44,7 @@ Lecture 11: [Linear Regression](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_p
 
 Lecture 12: [Generalised Linear Models](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=12_-_Generalised_Linear_Models.ipynb)
 
-## Part V: Machine Leaning (Under construction)
+## Part V: Machine Learning (Under construction)
 
 Lecture 13: [Supervised Classification](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=13_-_Supervised_Learning.ipynb)
 
