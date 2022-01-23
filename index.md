@@ -2,7 +2,7 @@
 By Kaspar Beelen and Luke Blaxill
 
 Run all on Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/HEAD)
+[![Binder]([![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables))
 
 ## Lecture 5: Python, the Basics
 
