@@ -25,11 +25,11 @@ Run all on Binder
 
 ### Notebook 4: Processing Texts
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=3_-_Text_and_String_Methods.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=4_-_Processing_texts.ipynb)
 
 ### Lecture 5: Corpus Selection
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=4_-_Processing_texts.ipynbb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=5_-_Corpus_Selection.ipynb)
 
 
 ### Notebook 6: Corpus Exploration
