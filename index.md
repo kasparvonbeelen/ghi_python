@@ -6,6 +6,10 @@ By Kaspar Beelen and Luke Blaxill
 Run all on Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables)
 
+## Part 0: Intro
+
+Lecture 0: [How to access Notebooks](introduction.md)
+
 ## Part I: Python, the Basics
 
 Lecture 1: [Introduction to the  course](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=1_-_Introduction.ipynb)
