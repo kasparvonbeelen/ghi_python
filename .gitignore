@@ -131,4 +131,5 @@ dmypy.json
 working_data/*
 data/*
 example_data/*
+colab_backup/*
 
