@@ -1,6 +1,8 @@
 # Data Science and Text Mining for Historians with Python
 By Kaspar Beelen and Luke Blaxill
 
+⚠️ **Warning** ⚠️  Still Under construction
+
 Run all on Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables)
 
