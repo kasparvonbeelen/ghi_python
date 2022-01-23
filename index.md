@@ -57,7 +57,7 @@ Run all on Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=10_-_Hypothesis_Testing.ipynb)
 
 ### Notebook 11: Linear Regression
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=11_-_Linear Regression.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=11_-_Linear_Regression.ipynb)
 
 ### Notebook 12: Linear Regression
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=12_-_Generalised_Linear_Models.ipynb)
