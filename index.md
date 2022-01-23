@@ -8,72 +8,49 @@ Run all on Binder
 
 ## Part I: Python, the Basics
 
-### Notebook 1: Introduction to the  course
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=1_-_Introduction.ipynb)
+Lecture 1: [Introduction to the  course](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=1_-_Introduction.ipynb)
 
 
-### Notebook 2: Basic Python, a gentle introduction
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=2_-_Values_and_Variables.ipynb)
+Lecture 2: [Basic Python, a gentle introduction](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=2_-_Values_and_Variables.ipynb)
 
 
-### Notebook 3: Text and String Methods
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=3_-_Text_and_String_Methods.ipynb)
+Lecture 3: [Text and String Methods](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=3_-_Text_and_String_Methods.ipynb)
 
 
 ## Part II: Text Processing and Corpus Exploration
 
-### Notebook 4: Processing Texts
+Lecture 4: [Processing Texts](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=4_-_Processing_texts.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=4_-_Processing_texts.ipynb)
-
-### Lecture 5: Corpus Selection
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=5_-_Corpus_Selection.ipynb)
+Lecture 5: [Corpus Selection](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=5_-_Corpus_Selection.ipynb)
 
 
-### Notebook 6: Corpus Exploration
+Lecture 6: [Corpus Exploration](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=6_-_Corpus_Exploration.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=6_-_Corpus_Exploration.ipynb)
-
-### Notebook 7: Trends over Time
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=7_-_Trends_over_time.ipynb)
+Lecture 7: [Trends over Time](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=7_-_Trends_over_time.ipynb)
 
 
 ## Part III: Explorative Data Analysis
 
-### Notebook 8: Exploring DataFrames (Part I)
+Lecture 8: [Exploring DataFrames (Part I)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=8_-_Data_Exploration_with_Pandas_I.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=8_-_Data_Exploration_with_Pandas_I.ipynb)
-
-### Notebook 9: Exploring DataFrame (Part II)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=9_-_Data_Exploration_with_Pandas_Part_II.ipynb)
+Lecture 9: [Exploring DataFrame (Part II)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=9_-_Data_Exploration_with_Pandas_Part_II.ipynb)
 
 
 ## Part IV: Hypothesis Testing and Regression Modelling
 
-### Notebook 10: Hypothesis Testing with Permutation Tests
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=10_-_Hypothesis_Testing.ipynb)
+Lecture 10: [Hypothesis Testing with Permutation Tests](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=10_-_Hypothesis_Testing.ipynb)
 
-### Notebook 11: Linear Regression
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=11_-_Linear_Regression.ipynb)
+Lecture 11: [Linear Regression](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=11_-_Linear_Regression.ipynb)
 
-### Notebook 12: Generalised Linear Models
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=12_-_Generalised_Linear_Models.ipynb)
+Lecture 12: [Generalised Linear Models](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=12_-_Generalised_Linear_Models.ipynb)
 
 ## Part V: Machine Leaning (Under construction)
 
-### Notebook 13: Supervised Classification
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=13_-_Supervised_Learning.ipynb)
+Lecture 13: [Supervised Classification](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=13_-_Supervised_Learning.ipynb)
 
-### Notebook 14: Topic Modelling
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=14_-_Topic_Modelling.ipynb)
+Lecture 14: [Topic Modelling](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=14_-_Topic_Modelling.ipynb)
 
-### Notebook 15: Word Vectors
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=15_-_Word_Vectors.ipynb)
+Lecture 15: [Word Vectors](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=15_-_Word_Vectors.ipynb)
 
 
 
