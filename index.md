@@ -44,7 +44,7 @@ Lecture 9: [Exploring DataFrame (Part II)](https://mybinder.org/v2/gh/kasparvonb
 
 Lecture 10: [Hypothesis Testing with Permutation Tests](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=10_-_Hypothesis_Testing.ipynb)
 
-Lecture 11: [Linear Regression](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=11_-_Linear_Regression.ipynb)
+Lecture 11: [Linear Regression](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=11_-_Linear Regression.ipynb)
 
 Lecture 12: [Generalised Linear Models](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=12_-_Generalised_Linear_Models.ipynb)
 
