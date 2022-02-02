@@ -35,16 +35,16 @@ Lecture 7: [Trends over Time](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_pyt
 
 ## Part III: Explorative Data Analysis
 
-Lecture 8: [Exploring DataFrames (Part I)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=8_-_Data_Exploration_with_Pandas_I.ipynb)
+Lecture 8: [Exploring DataFrames with Pandas (Part I)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=8_-_Data_Exploration_with_Pandas_I.ipynb)
 
-Lecture 9: [Exploring DataFrame (Part II)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=9_-_Data_Exploration_with_Pandas_Part_II.ipynb)
+Lecture 9: [Exploring DataFrames with Pandas (Part II)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=9_-_Data_Exploration_with_Pandas_Part_II.ipynb)
 
 
 ## Part IV: Hypothesis Testing and Regression Modelling
 
-Lecture 10: [Hypothesis Testing with Permutation Tests](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=10_-_Hypothesis_Testing.ipynb)
+Lecture 10: [Distributions and Hypothesis Testing](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=10_-_Hypothesis_Testing.ipynb)
 
-Lecture 11: [Linear Regression](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=11_-_Linear_Regression.ipynb)
+Lecture 11: [Correlation and Linear Regression](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=11_-_Linear_Regression.ipynb)
 
 Lecture 12: [Generalised Linear Models](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=12_-_Generalised_Linear_Models.ipynb)
 
