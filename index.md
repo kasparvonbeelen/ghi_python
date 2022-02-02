@@ -6,9 +6,9 @@ By Kaspar Beelen and Luke Blaxill
 Run all on Binder
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables)
 
-## Part 0: Intro
+## Part 0: Intro and Setup
 
-Lecture 0: [How to access Notebooks](introduction.md)
+Lecture 0: [How to access Notebooks on Binder](introduction.md)
 
 ## Part I: Python, the Basics
 
