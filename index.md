@@ -4,6 +4,7 @@ By Kaspar Beelen and Luke Blaxill
 ⚠️ **Warning** ⚠️  Still Under construction
 
 Run all on Binder
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main)
 
 ## Part 0: Intro and Setup
@@ -28,6 +29,8 @@ Finally, we move on from more fundamental syntax to working with actual text dat
 ## Part II: Text Processing and Corpus Exploration
 
 Lecture 4: [Processing Texts](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=4_-_Processing_texts.ipynb)
+
+This lesson introduces core Python objects such as lists and dictionaries that you will need when processing text files. We discuss the application of Natural Language Processing tools to historical documents. More precisely, we show how to use the NLTK and SpaCy to splitting a text into tokens and analyse the grammatical structure of a sentence with part-of-speech tagging.
 
 Lecture 5: [Corpus Selection](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=5_-_Corpus_Selection.ipynb)
 
