@@ -1,44 +1,65 @@
-# Text Mining for Historians with Python
+# Data Science and Text Mining for Historians with Python
 By Kaspar Beelen and Luke Blaxill
 
-![GHIlogo](https://www.ghil.ac.uk/typo3conf/ext/wacon_ghil/Resources/Public/Images/institute_icon_small.png)
+⚠️ **Warning** ⚠️  Still Under construction
 
-## Lecture 5: Python, the Basics
+Run all on Binder
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main)
 
-### Notebook 1: Introducing the coures
+## Part 0: Intro and Setup
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kasparvonbeelen/ghi_python/blob/main/1%20-%20Introduction.ipynb)
+Lecture 0: [How to access Notebooks on Binder](introduction.md)
 
+## Part I: Python, the Basics
 
-### Notebook 2: Basic Python, a gentle introduction
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kasparvonbeelen/ghi_python/blob/main/2%20-%20Values%20and%20Variables.ipynb)
-
-### Notebook 3: Text and String Methods
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kasparvonbeelen/ghi_python/blob/main/3%20-%20Text%20and%20String%20Methods.ipynb)
-
-## Lecture 6: Applications
-
-### Notebook 4: Processing Texts
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kasparvonbeelen/ghi_python/blob/main/4%20-%20%20Processing%20texts.ipynb)
-
-### Lecture 5: Corpus Selection
+Lecture 1: [Introduction to the  course](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=1_-_Introduction.ipynb)
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kasparvonbeelen/ghi_python/blob/main/5%20-%20Corpus%20Selection.ipynb)
+Lecture 2: [Basic Python, a gentle introduction](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=2_-_Values_and_Variables.ipynb)
 
 
-### Notebook 6: Corpus Exploration
+Lecture 3: [Text and String Methods](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=3_-_Text_and_String_Methods.ipynb)
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kasparvonbeelen/ghi_python/blob/main/6%20-%20Corpus%20Exploration.ipynb)
+## Part II: Text Processing and Corpus Exploration
 
-### Notebook 7: Trends over Time
+Lecture 4: [Processing Texts](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=4_-_Processing_texts.ipynb)
+
+Lecture 5: [Corpus Selection](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=5_-_Corpus_Selection.ipynb)
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kasparvonbeelen/ghi_python/blob/main/7%20-%20Trends%20over%20time.ipynb)
+Lecture 6: [Corpus Exploration](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=6_-_Corpus_Exploration.ipynb)
+
+Lecture 7: [Trends over Time](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=7_-_Trends_over_time.ipynb)
+
+
+## Part III: Explorative Data Analysis
+
+Lecture 8: [Exploring DataFrames with Pandas (Part I)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=8_-_Data_Exploration_with_Pandas_I.ipynb)
+
+Lecture 9: [Exploring DataFrames with Pandas (Part II)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=9_-_Data_Exploration_with_Pandas_Part_II.ipynb)
+
+
+## Part IV: Hypothesis Testing and Regression Modelling
+
+Lecture 10: [Distributions and Hypothesis Testing](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=10_-_Hypothesis_Testing.ipynb)
+
+Lecture 11: [Correlation and Linear Regression](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=11_-_Linear_Regression.ipynb)
+
+Lecture 12: [Generalised Linear Models](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=12_-_Generalised_Linear_Models.ipynb)
+
+## Part V: Machine Learning (Under construction)
+
+Lecture 13: [Supervised Classification](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=13_-_Supervised_Learning.ipynb)
+
+Lecture 14: [Topic Modelling](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=14_-_Topic_Modelling.ipynb)
+
+Lecture 15: [Word Vectors](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=15_-_Word_Vectors.ipynb)
+
+
+
+
+
 
 
 
