@@ -37,6 +37,8 @@ Lecture 7: [Trends over Time](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_pyt
 
 Lecture 8: [Exploring DataFrames with Pandas (Part I)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=8_-_Data_Exploration_with_Pandas_I.ipynb)
 
+This notebook introduces the Pandas library and explores tools for working programmatically with tabular data in. We have a closer look at realistic and complex metdata derived from the British Library catalogue and demonstrate how you can refine and reorganize information with the goals of studying trends over time.
+
 Lecture 9: [Exploring DataFrames with Pandas (Part II)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=9_-_Data_Exploration_with_Pandas_Part_II.ipynb)
 
 
