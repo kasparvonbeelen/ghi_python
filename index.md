@@ -14,12 +14,16 @@ Lecture 0: [How to access Notebooks on Binder](introduction.md)
 
 Lecture 1: [Introduction to the  course](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=1_-_Introduction.ipynb)
 
+We start with a brief introduction to the aims and principles of this course: why should a historian bother to learn a programming language for analysing textual and other types of data? Why Python (notebooks) in particular? We also discuss what to expect from this course (and what not?) and give an overview of the skills you will obtain. 
+
 
 Lecture 2: [Basic Python, a gentle introduction](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=2_-_Values_and_Variables.ipynb)
 
+This notebook starts with a gentle introduction to the basic elements of the Python syntax. We discuss how to create and manipulate variables, and demonstrate common operations. Some topics are more extensively discussed in 'break out' notebooks or in external documentation.
 
 Lecture 3: [Text and String Methods](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=3_-_Text_and_String_Methods.ipynb)
 
+Finally, we move on from more fundamental syntax to working with actual text data. In this notebook, we introduce 'string methods', which are Python tools for processing and manipulating text files. We also demonstrate how to open and read text files (at scale).
 
 ## Part II: Text Processing and Corpus Exploration
 
