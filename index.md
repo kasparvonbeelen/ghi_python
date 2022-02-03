@@ -34,10 +34,15 @@ This lesson introduces core Python objects such as lists and dictionaries that y
 
 Lecture 5: [Corpus Selection](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=5_-_Corpus_Selection.ipynb)
 
+In this notebook, we introduce techniques for selecting relevant information from large data sets. We discuss how to filter and select information based on their metadata as well as textual content. The strategies covered here allow you to select documents that are relevant to your research question and build question-specific subcorpora,
 
 Lecture 6: [Corpus Exploration](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=6_-_Corpus_Exploration.ipynb)
 
+After building a subcorpus, you need tools to explore and analyse the texts meaningfully. We focus on a wide range of tools provided by the Natural Language Toolkit, such as concordance or Keyword in Context (KWIC), collocation analysis and feature selection. We use reports written by Victorian Medical Officers of Health as a case study.
+
 Lecture 7: [Trends over Time](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=7_-_Trends_over_time.ipynb)
+
+The last notebook in the text mining series focuses on studying discursive trends over time. The goal of this notebook is to understand the changing content of British political manifestos.
 
 
 ## Part III: Explorative Data Analysis
