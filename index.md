@@ -4,7 +4,7 @@ By Kaspar Beelen and Luke Blaxill
 ⚠️ **Warning** ⚠️  Still Under construction
 
 Run all on Binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main)
 
 ## Part 0: Intro and Setup
 
