@@ -9,7 +9,7 @@ Run all on Binder
 
 ## Part 0: Intro and Setup
 
-Lecture 0: [How to access Notebooks on Binder](introduction.md)
+**Lecture 0: [How to access Notebooks on Binder](introduction.md)**
 
 ## Part I: Python, the Basics
 
