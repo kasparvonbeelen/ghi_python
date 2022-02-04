@@ -55,11 +55,13 @@ This notebook introduces the Pandas library and explores tools for working progr
 
 This notebook uses  "synthetic" demographic data about age and gender in late Victorian London. We discuss different types of variables and strategies for visualizing distributions. We proceed with summarising information using descriptive statistics, such as mean and median. From a historical point of view, we investigate whether men are generally younger than women in late-Victorian London.
 
-## Part IV: Hypothesis Testing and Regression Modelling
+## Part IV: Hypothesis Testing
 
 **Lecture 10: [Distributions and Hypothesis Testing](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=10_-_Hypothesis_Testing.ipynb)**
 
 In this section, we move from descriptive to inferential statistics. We assess the statistical 'significance' of the gendered differences observed in the previous notebook (on descriptive statistics). We pursue a data-driven and intuitive approach to significance testing. First, We "bootstrap" confidence intervals and then explore permutation for hypothesis testing.
+
+## Part V: Regression
 
 **Lecture 11: [Correlation and Linear Regression](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=11_-_Linear_Regression.ipynb)**
 
@@ -69,7 +71,7 @@ This session has a closer look at modelling the relation between different varia
 
 The second notebook on linear regression turns to more advanced techniques: Generalised Linear Models (GLMs). We use GLMs to model and predict count outcomes. We explore two case studies in detail: a) gender bias in university applications and b) gender and participation in the British House of Commons.
 
-## Part V: Machine Learning (Under construction)
+## Part VI: Machine Learning (Under construction)
 
 Lecture 13: [Supervised Classification](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=13_-_Supervised_Learning.ipynb)
 
