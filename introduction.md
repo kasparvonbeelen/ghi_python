@@ -29,7 +29,7 @@ After Binder is set up you should either see Jupyter Lab interface (if clicked o
  
  
 
-<img src="imgs/play,png" alt="run cell" width="25"/> Press this button (or press Shift and Enter) to execute code in Code cell.
+<img src="imgs/play.png" alt="run cell" width="25"/> Press this button (or press Shift and Enter) to execute code in Code cell.
 
 
 
