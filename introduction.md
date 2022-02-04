@@ -34,7 +34,7 @@ After Binder is set up you should either see Jupyter Lab interface (if clicked o
 
 If a notebook is running, you will see the small circle at the top right turn from white to dark grey. See image below.
 
-<img src="imgs/busy.png" alt="notebook busyl" width="50"/>
+<img src="imgs/notebook_busy.png" alt="notebook busy" width="100"/>
 
 <img src="imgs/reload_kernel.png" alt="restart kernel" width="25"/>  If you got really stuck and nothing seems to work anymore, you can always try resetting the Kernel (this will save you time compared to relaunching binder). Press this button to reset and clean all output. You will have to reload all libraries and data in this case, if you want to continue working.
 
