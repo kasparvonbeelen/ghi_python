@@ -2,6 +2,7 @@
 By Kaspar Beelen and Luke Blaxill
 
 ⚠️ **Warning** ⚠️  Still Under construction
+
 These lectures are part of the Text Mining and Statistics course for Historians. For an overview of the full course content go [here](https://lukeblaxill.wixsite.com/website-1).
 
 Run all on Binder
@@ -71,11 +72,11 @@ In this section, we move from descriptive to inferential statistics. We assess t
 
 This session has a closer look at modelling the relation between different variables. The first notebook (click here) discusses how to compute and interpret correlation coefficients and then continue with a gentle introduction to linear regression. The goal is to understand variation in lifespans in late-Victorian London. We try to understand if residents in more affluent boroughs tend to live longer?
 
-**Lecture B: [Generalised Linear Models](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=12_-_Generalised_Linear_Models.ipynb)**
+**Lecture B: [⚠️Generalised Linear Models ⚠️](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/main?labpath=12_-_Generalised_Linear_Models.ipynb)**
 
 The second notebook on linear regression turns to more advanced techniques: Generalised Linear Models (GLMs). We use GLMs to model and predict count outcomes. We explore two case studies in detail: a) gender bias in university applications and b) gender and participation in the British House of Commons.
 
-## Unit 8: Machine Learning (Under construction)
+## Unit 8: Machine Learning (⚠️ Under construction ⚠️) 
 
 Lecture A: [Supervised Classification](https://mybinder.org/v2/gh/kasparvonbeelen/ghi_python/4-tables?labpath=13_-_Supervised_Learning.ipynb)
 
