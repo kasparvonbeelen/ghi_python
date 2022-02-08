@@ -10,7 +10,7 @@ Run all on Binder
 
 ## Unit 0: Intro and Setup
 
-Lecture 0: [How to access Notebooks on Binder](introduction.md)
+**Lecture 0: [How to access Notebooks on Binder](introduction.md)**
 
 # Course 1: Text Mining in Python
 
